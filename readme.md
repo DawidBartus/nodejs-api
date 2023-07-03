@@ -23,7 +23,7 @@
 | Tools                                  |
 | - Postman                              |
 | Helper Libraries                       |
-| - UUID (Universally Unique Identifier) |
+| - UUID                   |
 | - Gravatar                             |
 
 User Registration:
